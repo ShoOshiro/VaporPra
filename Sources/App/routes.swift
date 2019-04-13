@@ -6,9 +6,9 @@ public func routes(_ router: Router) throws {
     // Basic "It works" example
     router.get { req in
         
-        return "りょうさん！"
+        return "var りょうさん : String = 社員"
         
-        
+        //ここ編集して、gitにローカルでコミットして、それをりもーとにpush。
         
         
     }
